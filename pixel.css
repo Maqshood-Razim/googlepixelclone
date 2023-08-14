@@ -1,0 +1,288 @@
+.main-body{
+    width: 100%;
+    height: 3100px;
+    background: #fff;
+}
+.header{
+    width: 100%;
+    height: 500px;
+   
+}
+body{
+    margin: 0;
+}
+.welcome{ 
+    font-size: 60px;
+    font-family:  Google Sans Display,Roboto, Arial, sans-serif;
+    font-weight: 700px;
+    padding-left: 688px;
+    position: relative;
+    margin-top: 267px;
+    bottom: 133px;
+   
+  
+
+}
+.store-controls{
+    font-size: 62px;
+    color: #188038;
+    font-weight: 700;
+    font-family:  Google Sans Display,Roboto, Arial, sans-serif;
+    padding-left: 722px;
+    position: relative;
+    bottom: 187px;
+}
+.lens{
+    width: 3%;
+    height: 3%;
+    position: relative;
+    left: 1487px;
+    bottom: 536px;
+}
+.question{
+    vertical-align: middle;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    position: relative;
+    left: 1484px;
+    bottom: 541px;
+    border-radius: 27px;
+}
+.trally{
+    position: relative;
+    width: 41px;
+    left: 1485px;
+    bottom: 533px;
+    height: 23px;
+}
+.account{
+    position: relative;
+    width: 39px;
+    height: 45px;
+    height: 31px;
+    left: 1494px;
+    bottom: 541px;
+    border-radius: 485px;
+    background: rgb(73, 19, 219);
+    color: #fff;
+}
+.photo{
+    width: 36px;
+    height: 41px;
+    position: relative;
+    left: -106px;
+    bottom: 514px;
+}
+.left-section{
+    font-family: "Google Sans",Roboto, Arial, sans-serif font-size 16px;
+    font-size: 19px;
+    line-height: 34px;
+    color: rgb(78, 73, 73)128, 128, 128;
+    margin-left: 14px;
+}
+.select{
+    margin-left: 47px;
+}
+.product{
+    font-weight: 700;
+    color: gray;
+    margin-left: 48px;
+}
+.container{
+    margin-top: -383px;
+}
+.phone-controls{
+    background:rgb(222, 220, 220) ;
+    background: rgb(222, 220, 220);
+    width: 347px;
+    height: 427px;
+    margin-left: 439px;
+    margin-top: -95px;
+}
+.phone{
+    width: 259px;
+    height: 249px;
+    position: relative;
+    left: 476px;
+    bottom: 343px;
+
+}
+.next-phone{
+    background:rgb(222, 220, 220) ;
+    background: rgb(222, 220, 220);
+    width: 347px;
+    height: 427px;
+    margin-left: 867px;
+    margin-top:-3021px;
+
+}
+.second-phone{
+    width: 259px;
+    height: 249px;
+    position: relative;
+    left: 903px;
+    bottom: 343px;
+}
+.dog-pic{
+    width: 259px;
+    height: 249px;
+    position: relative;
+    left: 903px;
+    bottom: 343px;
+}
+.dog-phone{
+    background:rgb(222, 220, 220) ;
+    background: rgb(222, 220, 220);
+    width: 347px;
+    height: 427px;
+    margin-left: 867px;
+    margin-top:-3021px;
+    position: relative;
+    top: 66px;
+
+}
+.air-pod{
+    background:rgb(222, 220, 220) ;
+    background: rgb(222, 220, 220);
+    width: 347px;
+    height: 427px;
+    margin-left: 867px;
+    margin-top: 221px;
+}
+.pod-pic{
+    width: 259px;
+    height: 249px;
+    position: relative;
+    left: 903px;
+    bottom: 343px;
+}
+.third-phone{
+    background:rgb(222, 220, 220) ;
+    background: rgb(222, 220, 220);
+    width: 347px;
+    height: 427px;
+    margin-left: 867px;
+    margin-top: -91px;
+}
+.third-pic{
+    width: 259px;
+    height: 249px;
+    position: relative;
+    left: 903px;
+    top: -334px;
+}
+.camera{
+    background:rgb(222, 220, 220) ;
+    background: rgb(222, 220, 220);
+    width: 347px;
+    height: 427px;
+    margin-left: 1293px;
+    margin-top: -2438px;
+}
+.cam-pic{
+    width: 259px;
+    height: 249px;
+    position: relative;
+    left: 1332px;
+    top: -334px;
+}
+.case{
+    background:rgb(222, 220, 220) ;
+    background: rgb(222, 220, 220);
+    width: 347px;
+    height: 427px;
+    margin-left: 1293px;
+   margin-top: -98px;
+}
+
+.case-controls{
+    width: 259px;
+    height: 249px;
+    position: relative;
+    left: 1332px; 
+    top: -334px;
+ 
+}
+.earphone{
+    background:rgb(222, 220, 220) ;
+    background: rgb(222, 220, 220);
+    width: 347px;
+    height: 427px;
+    margin-left: 1293px;
+    margin-top: -95px;
+    position: relative;
+    top: -1172px;
+}
+.headset{
+    width: 259px;
+    height: 249px;
+    position: relative;
+    left: 1332px;    
+    top: -1508px;
+}
+.footer{
+    height: 300px;
+    background: #fff;
+    margin-top: 920px
+}
+.country{
+    border: 0px;
+    margin-left: 974px;
+    margin-top: 25px;
+    padding-top: 10px;
+    position: relative;
+    top: 54px;
+}
+.availibilty{
+    padding-left: 300px;
+    border-radius: 0px;
+    border: 0px;   
+    position: relative;
+    left: 970px;
+    top: 54px;
+}
+.last{
+    width: 100%;
+    height: 100px;
+    background: #fff;
+}
+.twitter{
+    width: 27px;
+    height: 17px;
+    margin-left: 45px;
+    margin-top: 4px;
+
+}
+.insta{
+    width: 66px;
+    height: 28px;
+    position: relative;
+    left: -3px;
+    top: 4px;
+}
+.youtube{
+    width: 27px;
+    height: 17px;
+    margin-left: -9px;
+    margin-top: 4px;
+
+}
+.para{
+    color: gray;
+    color: gray;
+    margin-left: 1288px;
+    margin-top: -94px;
+}
+.para1{
+    color: gray;
+    margin-left: 1349px;
+    margin-top: -34px;
+
+}
+.para2{
+    color: gray;
+    
+    margin-left: 1418px;
+    margin-top: -34px;
+}
